@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Plasma Deck
+Name=Plasma Deck (Custom)
 
 X-KDE-PluginInfo-Author=Alexey Varfolomeev
 X-KDE-PluginInfo-Email=varlesh@gmail.com
@@ -12,10 +12,10 @@ X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 
 [ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
+enabled=true
+contrast=0.9
+intensity=0.6
+saturation=1.5
 
 [AdaptiveTransparency]
 enabled=true
